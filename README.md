@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my flag guessing game
+- 🔭 I’m currently working on my chatbot
 - 🌱 I’m currently learning CS @ NRU HSE
 - 🤔 I’m looking for help with JS ans React
 - 💬 Ask me about (most of)my projects - i'll answer
